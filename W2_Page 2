@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="author" content="W1_Page2">
+        <a href="INST 630_W1_Letter.html" title="Page1">Link to Page 1</a>
+        <title>MY PAGE</title>
+    </head>
+    <body>
+        <h1>Nayoung Kim INST 630 Spring 2025</h1>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg" alt="South Korea Flag" />
+        <p>Hi My name is Nayoung Kim. I am really glad to meet you!</p>
+    </body>
+</html>
